@@ -7,7 +7,7 @@
 6. Switch to another address in `Account`. This will be the address of the owner.
 7. Click `Deploy`.
 
-## Once the Bounty contract is successfully deployed, we can use `reward` and `withdrawReward` functions.
+## Once the Bounty contract is successfully deployed, you can call `reward` and `withdrawReward` functions.
 
 ### To use the `reward` function,
 1. Enter the `Value`(`0.1` and `ether`).
